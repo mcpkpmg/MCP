@@ -1,1 +1,5 @@
-Checking to see if I can write to this file...DU
+---
+mode: What time is it in Mirama?
+
+---
+Expected output and any relevant constraints for this task.
